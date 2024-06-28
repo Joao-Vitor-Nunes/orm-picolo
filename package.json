@@ -2,6 +2,18 @@
   "name": "trab-picolo",
   "version": "1.0.0",
   "description": "Projeto de Programação Orientada a Objeto - ORM",
+  "contributors": [
+    {
+      "name": "João Vitor Nunes Da Silva",
+    },
+    {
+      "name": "Kaue Oliveira",
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Joao-Vitor-Nunes/orm-picolo"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,3 +21,4 @@
   "author": "joaovitor,kaueoliveira",
   "license": "MIT"
 }
+
