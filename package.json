@@ -4,10 +4,10 @@
   "description": "Projeto de Programação Orientada a Objeto - ORM",
   "contributors": [
     {
-      "name": "João Vitor Nunes Da Silva",
+      "name": "João Vitor Nunes Da Silva"
     },
     {
-      "name": "Kaue Oliveira",
+      "name": "Kaue Oliveira"
     }
   ],
   "repository": {
@@ -19,6 +19,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "joaovitor,kaueoliveira",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
-
