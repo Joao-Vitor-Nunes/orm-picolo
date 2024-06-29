@@ -1,7 +1,3 @@
-Aqui está o README atualizado para o projeto "trab-picolo":
-
----
-
 # trab-picolo
 
 ## Projeto de Programação Orientada a Objeto - ORM
@@ -27,18 +23,10 @@ Para utilizar o trab-picolo, clone o repositório e instale as dependências:
 
 ```bash
 git clone https://github.com/Joao-Vitor-Nunes/orm-picolo.git
-cd orm-picolo
 npm install
-```
 
-### Uso
 
-O projeto fornece métodos para criar, selecionar, atualizar e deletar objetos na memória. Veja abaixo exemplos de uso:
-
-#### Exemplo de Uso
-
-```javascript
-import ORM from './index.js';
+import ORM from './orm.js';
 
 class AAA extends ORM {
     constructor(){
@@ -74,12 +62,3 @@ console.log("");
 /* Listar novamente para verificar a exclusão */
 console.log(objeto.listar());
 console.log("");
-```
-
-### Licença
-
-MIT
-
----
-
-Esse README inclui todas as informações fornecidas, como nome do projeto, descrição, contribuidores, link para o repositório, instruções de instalação, exemplos de uso e informações de licença.
