@@ -14,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/Joao-Vitor-Nunes/orm-picolo"
   },
-  "main": "index.js",
+  "main": "orm.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

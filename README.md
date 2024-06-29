@@ -23,11 +23,11 @@ Para utilizar o trab-picolo, clone o repositório e instale as dependências:
 
 ```bash
 git clone https://github.com/Joao-Vitor-Nunes/orm-picolo.git
-npm install
+npm install trab-picolo4.0
 
 
 import ORM from './orm.js';
-import Leitor from './leitor.js'
+
 
 class Leitor extends ORM {
     constructor(){
